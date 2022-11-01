@@ -1,9 +1,7 @@
 # Detectify - Fraud Prevention
-Detectify provides fraud prevention solutions for financial transactions.
-
 <img src=images/detectify_logo.png width="650" height="250"/>
 
-<p>Detectify is a specialized company in fraud detection on financial transactions. It has the Blocker Fraud service, which ensures the block of fraudulent transactions.</p>
+<p>Detectify is a specialized company in fraud detection. The company is launching the Blocker Fraud service, which ensures the block of fraudulent transactions.</p>
 
 <p>Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. Location intelligence tools can be used to pinpoint suspicious activities and accurately identify their users.</p>
 
