@@ -87,11 +87,11 @@ Detectify provides fraud prevention solutions for financial transactions.
 <table style="width: 100%;">
     <tbody>
         <tr>
-            <td style="width: 24.6517%;">Model<br></td>
-            <td style="width: 15.2538%;">Accuracy<br></td>
-            <td style="width: 20.0000%;">Recall<br></td>
-            <td style="width: 20.0000%;">F1-Score<br></td>
-            <td style="width: 20.0000%;">Precision<br></td>
+            <td style="width: 24.6517%;"><strong>Model</strong><br></td>
+            <td style="width: 15.2538%;"><strong>Accuracy</strong><br></td>
+            <td style="width: 20.0000%;"><strong>Recall</strong><br></td>
+            <td style="width: 20.0000%;"><strong>F1-Score</strong><br></td>
+            <td style="width: 20.0000%;"><strong>Precision</strong><br></td>
         </tr>
         <tr>
             <td style="width: 24.6517%;">Logistic Regression<br></td>
@@ -121,6 +121,10 @@ Detectify provides fraud prevention solutions for financial transactions.
 <p>Addopting Random Forest as the Machine Learning model, Detectify is able to dectect 99.39% of all fraudulent transactions and will pay $2,688,507.92 due to transactions considered legal, but actually fraudulent.<p/>
 
 <p>On the other hand, Detectify will receive $438,086,930.85 due to transactions truly detected as fraud.</p>
+
+<p>For more information please visit the <a href="https://github.com/velozo-oliveira/fraud_detection/blob/main/fraud_detection.ipynb">Jupyter Notebook.</a>&nbsp;</p>
+
+![alt text](https://camo.githubusercontent.com/e922b45bfb79029cf4436e255b0d17b00b651e13b24f1751a9f87b14055fb4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465)
 
 
 <h1 dir="auto">Conclusion</h1>
