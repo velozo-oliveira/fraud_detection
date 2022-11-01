@@ -116,7 +116,7 @@
 </table>
 
 <h1 dir="auto">Business Results</h1>
-<p>Addopting Random Forest as the Machine Learning model, Detectify is able to dectect 99.39% of all fraudulent transactions and will pay $2,688,507.92 due to transactions considered legal, but actually fraudulent.<p/>
+<p>Addopting Random Forest as the Machine Learning model, Detectify is able to detect 99.39% of all fraudulent transactions and will pay $2,688,507.92 due to transactions considered legal, but actually fraudulent.<p/>
 
 <p>On the other hand, Detectify will receive $438,086,930.85 due to transactions truly detected as fraud.</p>
 
